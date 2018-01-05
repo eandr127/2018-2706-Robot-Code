@@ -1,5 +1,7 @@
 /bin/
 /build/
 /dist/
+/.gradle/
 *.class
 sysProps.xml
+/.idea/workspace.xml
